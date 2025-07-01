@@ -1,83 +1,68 @@
 <h1 align="center">Hi 👋, I'm Shaik Mahaboob Basha</h1>
 <h3 align="center">A passionate Full-Stack Java Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahaboob-basha-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="mahaboob-basha-shaik" />
-</p>
+- 🔭 I’m currently working on [Swiggy-like Food Ordering System](https://github.com/your-username/food-ordering-system)
+
+- 👯 I’m looking to collaborate on **AI + HealthTech Projects** and **Spring Boot Applications**
+
+- 🤝 I’m looking for help with [AI Health Assistant using Streamlit & ML](https://github.com/your-username/ai-health-assistant)
+
+- 🌱 I’m currently learning **Spring Boot**, **Thymeleaf**, **REST APIs**, and **Cloud Deployment (Heroku, Vercel)**
+
+- 💬 Ask me about **Java**, **Spring Boot**, **JSP/Servlets**, **MySQL**, **Data Structures**, and **AI Projects**
+
+- 📫 How to reach me: **shaik.mahaboob.basha@gmail.com**
+
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://your-portfolio-link.com)
+
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@your-username)
+
+- 📄 Know about my experiences: [Resume](https://drive.google.com/your-resume-link)
+
+- ⚡ Fun fact: **I turn caffeine into code and bugs into features 😄**
 
 ---
 
-### 🚀 About Me
+## 🛠️ Skills
 
-- 🌱 I’m currently learning **Spring Boot**, **Thymeleaf**, **REST APIs**, and **Cloud Deployment**  
-- 👯 I’m looking to collaborate on **AI + HealthTech Projects** and **Spring Boot Applications**  
-- 🤝 I’m looking for help with **AI Health Assistant using Streamlit & ML**  
-- 👨‍💻 All of my projects are available at: [Portfolio](https://shaik-mahaboob-basha.vercel.app/)  
-- 💬 Ask me about **Java**, **Spring Boot**, **JSP/Servlets**, **MySQL**, **Data Structures**, and **AI Projects**  
-- 📫 Reach me at: **maheboob2002basha@gmail.com**  
-- ⚡ Fun fact: _I turn caffeine into code and bugs into features 😄_
+### 🚀 Programming Languages:
+`Java` `Python` `JavaScript` `SQL` `HTML` `CSS`
 
----
+### 🔧 Frameworks & Tools:
+`Spring Boot` `JSP/Servlets` `Hibernate` `Thymeleaf` `Streamlit` `Bootstrap`
 
-### 🌐 Connect with Me
+### 💾 Database:
+`MySQL` `PostgreSQL` `MongoDB`
 
-<p align="left">
-  <a href="https://twitter.com/maheboo98692378" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahaboob-shaik-991380239/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/maheboobbasha1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-</p>
+### 🧠 AI/ML:
+`Pandas` `Scikit-learn` `NLP` `OpenCV`
 
 ---
 
-### 🛠️ Languages & Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheboob20v&show_icons=true&theme=radical)
+
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=maheboob20v&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheboob20v&theme=radical)
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahaboob-basha-shaik&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahaboob-basha-shaik&layout=compact&theme=radical" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaboob-basha-shaik&theme=radical" alt="GitHub Streak"/>
-</p>
+## 📰 Latest Blogs
+<!-- Replace with GitHub Action or static blog links -->
+- [Building a Health Assistant with AI and Streamlit](https://yourblog.com/post1)
+- [Getting Started with Spring Boot REST APIs](https://yourblog.com/post2)
+- [Deploying Java Apps to Heroku](https://yourblog.com/post3)
 
 ---
 
-### 🏆 GitHub Trophies
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahaboob-basha-shaik&theme=darkhub" alt="Trophies"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahaboob-shaik-991380239/)  
+[![Buy Me A Coffee](https://img.shields.io/badge/-BuyMeACoffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/maheboob20v)
 
 ---
 
-### ☕ Support Me
+_This profile is built with ❤️ using GitHub Profile README Generator_
 
-<p>
-  <a href="https://buymeacoffee.com/maheboob20v" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
