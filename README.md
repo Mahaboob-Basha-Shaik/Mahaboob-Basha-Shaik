@@ -20,30 +20,59 @@
 
 ---
 
-<!-- Font Awesome CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Connect with Me</title>
 
-<h3>🌐 Connect with Me</h3>
-<p>
-  <a href="https://twitter.com/yourusername" target="_blank" aria-label="Twitter">
-    <i class="fab fa-twitter fa-2x" style="margin-right: 10px;"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank" aria-label="LinkedIn">
-    <i class="fab fa-linkedin fa-2x" style="margin-right: 10px;"></i>
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank" aria-label="Instagram">
-    <i class="fab fa-instagram fa-2x" style="margin-right: 10px;"></i>
-  </a>
-  <a href="https://www.behance.net/yourusername" target="_blank" aria-label="Behance">
-    <i class="fab fa-behance fa-2x" style="margin-right: 10px;"></i>
-  </a>
-  <a href="https://bento.me/shaik-mahaboob-basha" target="_blank" aria-label="Bento">
-    <i class="fas fa-utensils fa-2x" style="margin-right: 10px;"></i>
-  </a>
-  <a href="mailto:yourmail@example.com" aria-label="Email">
-    <i class="fas fa-envelope fa-2x"></i>
-  </a>
-</p>
+  <!-- ✅ Font Awesome CSS (must be in <head>) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pVpjfrxVJlwGE+c4t4nU4pAaSYkoK0BeEE2xgfe+4r+1+0JYkuBJE5yz5cEKD38+1VJq7klrfya80p0nI8LHyA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    a {
+      text-decoration: none;
+      color: #000;
+    }
+    a:hover {
+      color: #0073e6;
+    }
+    i {
+      margin-right: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <h3>🌐 Connect with Me</h3>
+  <p>
+    <a href="https://twitter.com/maheboo98692378" target="_blank" aria-label="Twitter">
+      <i class="fab fa-twitter fa-2x"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/mahaboob-shaik-991380239/" target="_blank" aria-label="LinkedIn">
+      <i class="fab fa-linkedin fa-2x"></i>
+    </a>
+    <a href="https://www.instagram.com/yourusername" target="_blank" aria-label="Instagram">
+      <i class="fab fa-instagram fa-2x"></i>
+    </a>
+    <a href="https://www.behance.net/yourusername" target="_blank" aria-label="Behance">
+      <i class="fab fa-behance fa-2x"></i>
+    </a>
+    <a href="https://bento.me/shaik-mahaboob-basha" target="_blank" aria-label="Bento">
+      <i class="fas fa-link fa-2x"></i>
+    </a>
+    <a href="mailto:shaikmahaboob754@gmail.com" aria-label="Email">
+      <i class="fas fa-envelope fa-2x"></i>
+    </a>
+  </p>
+
+</body>
+</html>
+
 
 
 
