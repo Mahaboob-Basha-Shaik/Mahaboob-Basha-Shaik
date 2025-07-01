@@ -20,65 +20,26 @@
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Connect with Me</title>
+### 🌐 Connect with Me
 
-  <!-- ✅ Font Awesome CSS (must be in <head>) -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pVpjfrxVJlwGE+c4t4nU4pAaSYkoK0BeEE2xgfe+4r+1+0JYkuBJE5yz5cEKD38+1VJq7klrfya80p0nI8LHyA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<p align="left">
+  <a href="https://twitter.com/maheboo98692378" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahaboob-shaik-991380239/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/maheboobbasha1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+  </a>
+  <a href="mailto:shaikmahaboob123@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    a {
-      text-decoration: none;
-      color: #000;
-    }
-    a:hover {
-      color: #0073e6;
-    }
-    i {
-      margin-right: 15px;
-    }
-  </style>
-</head>
-<body>
-
-  <h3>🌐 Connect with Me</h3>
-  <p>
-    <a href="https://twitter.com/maheboo98692378" target="_blank" aria-label="Twitter">
-      <i class="fab fa-twitter fa-2x"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/mahaboob-shaik-991380239/" target="_blank" aria-label="LinkedIn">
-      <i class="fab fa-linkedin fa-2x"></i>
-    </a>
-    <a href="https://www.instagram.com/yourusername" target="_blank" aria-label="Instagram">
-      <i class="fab fa-instagram fa-2x"></i>
-    </a>
-    <a href="https://www.behance.net/yourusername" target="_blank" aria-label="Behance">
-      <i class="fab fa-behance fa-2x"></i>
-    </a>
-    <a href="https://bento.me/shaik-mahaboob-basha" target="_blank" aria-label="Bento">
-      <i class="fas fa-link fa-2x"></i>
-    </a>
-    <a href="mailto:shaikmahaboob754@gmail.com" aria-label="Email">
-      <i class="fas fa-envelope fa-2x"></i>
-    </a>
-  </p>
-
-</body>
-</html>
-
-
-
-
-
-
----
 
 ### 🛠️ Languages & Tools
 
