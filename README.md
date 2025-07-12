@@ -11,7 +11,6 @@
 
 * 💼 I specialize in building scalable **Java-based backend systems**, developing **RESTful APIs**, and deploying full-stack applications to the cloud.
 * 🛠️ Currently working on: **Spring Boot microservices**, **HealthTech AI applications**, and **cloud-native architecture**.
-* 📚 Upskilling with: **Kubernetes**, **CI/CD Pipelines**, **System Design**, and **ML integrations**.
 * 🤝 I collaborate on: **AI Health Assistants**, **Java/Spring Boot Projects**, and **Data-Driven Applications**.
 * 💬 Ask me about: `Java`, `Spring Boot`, `MySQL`, `Cloud Deployment`, `JSP/Servlets`, `Streamlit`, and `Data Structures`.
 * 🌐 Portfolio: [shaik-mahaboob-basha.vercel.app](https://shaik-mahaboob-basha.vercel.app)
