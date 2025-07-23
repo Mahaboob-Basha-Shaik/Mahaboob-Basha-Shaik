@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Mahaboob Basha</h1>
-<h3 align="center">🚀 Experienced Full-Stack Java Developer | AI & Cloud Enthusiast | Tech-for-Good Advocate</h3>
+<h3 align="center">🚀 Experienced Full-Stack Java Developer | Freelancer | Tech-for-Good Advocate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahaboob-basha-shaik&label=Profile%20views&color=0e75b6&style=flat" alt="mahaboob-basha-shaik" />
